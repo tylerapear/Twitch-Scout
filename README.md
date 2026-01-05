@@ -7,7 +7,7 @@ A Python command line tool for quickly checking the upcoming schedules of your f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tylerapear/NESY-Engine.git
+    git clone https://github.com/tylerapear/Twitch-Scout.git
     ```
 2. Cd into the project directory
 
